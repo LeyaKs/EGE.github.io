@@ -1,30 +1,30 @@
-{
-  "verifiable_vowel" [
+[
+  "verifiable_vowel" {
     "task_text": "verifiable_vowel",
     "name": "Задание ЕГЭ №9(безударная проверяемая гласная)"
-  ],
-  "alternating_vowel" [
+  },
+  "alternating_vowel" {
     "task_text": "alternating_vowel",
     "name": "Задание ЕГЭ №9(чередующаяся гласная)"
-  ],
-  "non_verifiable_vowel" [
+  },
+  "non_verifiable_vowel" {
     "task_text": "non_verifiable_vowel",
     "name": "Задание ЕГЭ №9(безударная непроверяемая гласная)"
-  ],
-  "task_10" [
+  },
+  "task_10" {
     "task_text": "task_10",
     "name": "Задание ЕГЭ №10"
-  ],
-  "task_11" [
+  },
+  "task_11" {
     "task_text": "task_11",
     "name": "Задание ЕГЭ №11"
-  ],
-  "task_12" [
+  },
+  "task_12" {
     "task_text": "task_12",
     "name": "Задание ЕГЭ №12"
-  ],
-  "task_13" [
+  },
+  "task_13" {
     "task_text": "task_13",
     "name": "Задание ЕГЭ №13"
-  ],
-}
+  }
+]
