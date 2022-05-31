@@ -1,0 +1,34 @@
+[
+  {
+    "task_text": "verifiable_vowel",
+    "name": "Задание ЕГЭ №9(безударная проверяемая гласная)"
+  },
+   {
+    "task_text": "alternating_vowel",
+    "name": "Задание ЕГЭ №9(чередующаяся гласная)"
+  },
+   {
+    "task_text": "non_verifiable_vowel",
+    "name": "Задание ЕГЭ №9(безударная непроверяемая гласная)"
+  },
+   {
+    "task_text": "task_10",
+    "name": "Задание ЕГЭ №10"
+  },
+   {
+    "task_text": "task_11",
+    "name": "Задание ЕГЭ №11"
+  },
+   {
+    "task_text": "task_12",
+    "name": "Задание ЕГЭ №12"
+  },
+   {
+    "task_text": "task_13",
+    "name": "Задание ЕГЭ №13"
+  },
+  {
+    "task_text": "task_14",
+    "name": "Задание ЕГЭ №14"
+  }
+]
