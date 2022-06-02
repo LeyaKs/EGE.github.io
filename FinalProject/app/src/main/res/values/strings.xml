@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">FinalProject</string>
+    <string name="Start">Start</string>
+    <string name="button_back">Назад</string>
+    <string name="button_help">Помощь</string>
+    <string name="tasks">Упражнения:</string>
+    <string name="theory">Теория</string>
+    <string name="check_button">Проверить</string>
+    <string name="description">Описание</string>
+    <string name="levels">Уровни:</string>
+    <string name="count">Очки:</string>
+    <string name="level1">Укажите варианты ответов, в которых во всех словах одного ряда содержится безударная проверяемая гласная корня.</string>
+    <string name="level2">Укажите варианты ответов, в которых во всех словах одного ряда содержится чередующаяся гласная корня.</string>
+    <string name="level3">Укажите варианты ответов, в которых во всех словах одного ряда содержится безударная непроверяемая гласная корня.</string>
+    <string name="task10">Укажите варианты ответов, в которых во всех словах одного ряда пропущена одна и та же буква. </string>
+    <string name="task11">Укажите варианты ответов, в которых в обоих словах одного ряда пропущена одна и та же буква.</string>
+    <string name="task12">Укажите варианты ответов, в которых во всех словах одного ряда пропущена одна и та же буква.</string>
+    <string name="task13">Определите предложение, в котором НЕ со словом пишется СЛИТНО.</string>
+    <string name="task14">Определите предложение, в котором оба выделенных слова пишутся СЛИТНО.</string>
+</resources>
