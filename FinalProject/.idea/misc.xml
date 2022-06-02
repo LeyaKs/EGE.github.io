@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Home/AndroidStudioProjects/FinalProject/app/src/main/res/drawable/button_style.xml" value="0.2222222222222222" />
+        <entry key="..\:/Users/Home/AndroidStudioProjects/FinalProject/app/src/main/res/drawable/first_style_button.xml" value="0.2265625" />
+        <entry key="..\:/Users/Home/AndroidStudioProjects/FinalProject/app/src/main/res/drawable/ic_launcher_background.xml" value="0.2222222222222222" />
+        <entry key="..\:/Users/Home/AndroidStudioProjects/FinalProject/app/src/main/res/drawable/level_button_style_not_pressed.xml" value="0.2578125" />
+        <entry key="..\:/Users/Home/AndroidStudioProjects/FinalProject/app/src/main/res/drawable/second_style_button.xml" value="0.2222222222222222" />
+        <entry key="..\:/Users/Home/AndroidStudioProjects/FinalProject/app/src/main/res/layout/activity_main.xml" value="0.176" />
+        <entry key="..\:/Users/Home/AndroidStudioProjects/FinalProject/app/src/main/res/layout/item.xml" value="0.10493421052631578" />
+        <entry key="..\:/Users/Home/AndroidStudioProjects/FinalProject/app/src/main/res/layout/levels.xml" value="0.2" />
+        <entry key="..\:/Users/Home/AndroidStudioProjects/FinalProject/app/src/main/res/layout/task.xml" value="0.2" />
+        <entry key="..\:/Users/Home/AndroidStudioProjects/FinalProject/app/src/main/res/layout/tasks.xml" value="0.12" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
